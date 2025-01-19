@@ -76,45 +76,6 @@ git clone https://github.com/TheProfessor123/js.git
 
 3. Start with basics and progress through advanced topics
 
-## 📖 Learning Path
-
-1. Start with 
-
-01_basics
-
- to understand fundamental concepts
-2. Move to 
-
-02_basics
-
- for core JavaScript features
-3. Learn functions in 
-
-03_basics
-
-
-4. Study control structures in 
-
-04_control_flow
-
-
-5. Practice iterations in 
-
-05_iterations
-
-
-6. Explore DOM manipulation in 
-
-06_dom
-
-
-7. Build projects in 
-
-07_projects
-
-
-8. Study advanced concepts in remaining directories
-
 ## 🛠️ Technologies Used
 
 - HTML5
